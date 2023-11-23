@@ -1,0 +1,26 @@
+{
+    "name": "rialic/laravel-repository",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rialic\\LaravelRepository\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rhiali Candido"
+        }
+    ],
+    "extra" : {
+        "laravel" : {
+            "providers" : [
+                "Rialic\\LaravelRepository\\Providers\\BaseServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^10.33"
+    }
+}
