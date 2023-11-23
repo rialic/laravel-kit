@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Rialic\\LaravelRepository\\": "src"
+            "Rialic\\LaravelKit\\": "src"
         }
     },
     "authors": [
@@ -15,7 +15,7 @@
     "extra" : {
         "laravel" : {
             "providers" : [
-                "Rialic\\LaravelRepository\\Providers\\BaseServiceProvider"
+                "Rialic\\LaravelKit\\Providers\\BaseServiceProvider"
             ]
         }
     },

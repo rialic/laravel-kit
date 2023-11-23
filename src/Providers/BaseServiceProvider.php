@@ -1,6 +1,6 @@
 <?php
 
-namespace Rialic\LaravelRepository\Providers;
+namespace Rialic\LaravelKit\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
