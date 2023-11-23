@@ -1,5 +1,5 @@
 {
-    "name": "rialic/laravel-repository",
+    "name": "rialic/laravel-kit",
     "type": "library",
     "license": "MIT",
     "autoload": {
